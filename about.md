@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 关于我
+title: 关于我 Hou Shuai
 ---
 
 <div class="post">
