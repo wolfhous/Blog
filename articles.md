@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Your New Jekyll Site
+title: Hou Shuai 博客
 ---
 
 <div id="articles">
-  <h1>Articles</h1>
+  <h1> Hou Shuai 博客</h1>
   <ul class="posts noList">
     {% for post in site.posts %}
       <li>
